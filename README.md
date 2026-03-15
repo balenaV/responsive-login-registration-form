@@ -18,4 +18,4 @@
 
 ## Deploy
 O projeto está disponível no GitHub Pages:
-[https://balenav.github.io/Responsive-Login-Registration-Form/](https://balenav.github.io/Responsive-Login-Registration-Form/)
+[https://balenav.github.io/responsive-login-registration-form/](https://balenav.github.io/responsive-login-registration-form/)
